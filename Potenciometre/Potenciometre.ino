@@ -26,7 +26,7 @@ void setup() {                //Inicia el bloc
 void loop() {                 // inicia el bucle del programa
  // 
  Serial.println(analogRead(A0)) ;
-  }
+  
 
 }                          //Finalitza el bloc
 
